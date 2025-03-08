@@ -1,18 +1,21 @@
 # 👋 Hello, I'm Prince! 
+I'm a passionate self-taught developer exploring the world of web development while pursuing a **B.Com** degree. My core focus is on backend and frontend technologies, constantly learning and improving my skills.
 
-**Welcome to my GitHub profile!** I'm a passionate developer currently focusing on web development and exploring new technologies. I’m always eager to learn new skills and contribute to interesting projects.
+## 💻 Tech Stack & Skills
+- **Frontend:** React, Redux Toolkit, Tailwind CSS, ShadCN, TypeScript
+- **Backend:** Node.js, Express.js, MongoDB
+- **Real-time & Messaging:** WebSockets, RabbitMQ (Messaging Broker)
+- **Caching & Optimization:** Redis Caching
+- **Other:** GSAP, Three.js (Basic), WebRTC
 
----
+## 🌱 Currently Learning
+- Deepening my understanding of **TypeScript** & **Backend Architecture**
+- Exploring **gRPC**, **Microservices**, and **Advanced System Design**
+- Improving **Data Structures & Algorithms (DSA)** skills
 
-## 🚀 About Me:
-- 🎓 **Background**: I'm currently a **B.Com** student transitioning into the tech world with a strong focus on full-stack web development.
-- 💻 **Skills**: 
-  - Frontend: **HTML, CSS, JavaScript, React.js**
-  - Backend: **Node.js, Express.js, MongoDB**
-  - Tools: **Git, GitHub**
-- 🌱 **Currently Learning**: Full-stack development with a focus on the MERN stack.
-- 🔭 **Projects I'm working on**: Building apps that tackle real-world problems, such as a music website using the Shazam API.
-- ## ⚡ Fun Fact:
-I love building creative projects that solve real-world problems, and I am always eager to contribute to exciting open-source projects! Also, when I'm not coding, you can find me gaming or exploring the latest in tech.
+## 🔥 Projects & Goals
+- Creating an **Open-Source Project** to collaborate with contributors
+- Developing a **Notion-like Employee Management System**
+- Working on a **Google Drive-like Storage Service** with separate microservices
 
----
+Let's build something amazing together! 🚀
